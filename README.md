@@ -7,5 +7,5 @@ in talus deposits fed by successive rockfall events.
 MATLAB R2020a or later. No additional toolboxes required.
 
 ## Files
-- `run_rockfall.m` — core model function, accepts parameter struct
+- `RockFall_v3_eback.m` — core model function, accepts parameter struct
 - `sensitivity_analysis.m` — multi-start joint optimization
